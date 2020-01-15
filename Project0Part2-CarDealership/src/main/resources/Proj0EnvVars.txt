@@ -1,0 +1,5 @@
+URL = jdbc:postgresql://connordb.crcfj1jsjtlz.us-east-1.rds.amazonaws.com:5432/proj_0
+
+USERNAME = proj_0_user
+
+PASSWORD = yes 
